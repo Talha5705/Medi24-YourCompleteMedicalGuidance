@@ -143,7 +143,7 @@
 
                 <div class = "col-sm-6 col-md-3">
                     <a href = "Rare Medicines.php" class = "thumbnail">
-                        <img src = "img/mm.png" style="height: 180px;"><p align="center">Rare Medicines</p>
+                        <img src = "img/mm.png" alt="use a good icon please" style="height: 180px;"><p align="center">Rare Medicines</p>
                     </a>
                 </div>
 
